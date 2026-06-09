@@ -1,5 +1,5 @@
 Name : Sitaram
-Thiranex-internship Task-1 : Data Cleaning & Dual-Axis Visualization
+ Data Cleaning & Dual-Axis Visualization
 Step 1: Loading the Data
 •	What we did: The script looks for your CSV data file (raw_data.csv) and loads it into Python's memory using a tool called Pandas.
 •	Why it matters: It automatically builds a preview so you can check how the raw numbers look before making changes.
